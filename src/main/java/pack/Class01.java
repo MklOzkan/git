@@ -10,5 +10,8 @@ public class Class01 {
         System.out.println("Enter your name");
         String s = scan.nextLine();
         System.out.println("your name: " + s);
+
+        int n = scan.nextInt();
+        System.out.println("id number: " +n);
     }
 }
