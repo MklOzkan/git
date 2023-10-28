@@ -13,5 +13,6 @@ public class Class01 {
 
         int n = scan.nextInt();
         System.out.println("id number: " +n);
+        System.out.println(n+s);
     }
 }
